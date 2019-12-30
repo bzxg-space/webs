@@ -3,7 +3,7 @@
 * 使用 [幕布](https://mubu.com/ "极简大纲笔记") 整理
 * 作者：搬砖小哥
 * 口号：回归现实，分享有趣
-* 网址：[webs.github.io](https://webs.github.io/ "网站集锦 - 快捷网站导航") 
+* 网址：[bzxg-space.github.io/webs](https://bzxg-space.github.io/webs "网站集锦 - 快捷网站导航") 
 
 ## 分类
 * vip视频解析、音乐下载
